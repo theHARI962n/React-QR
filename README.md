@@ -1,6 +1,12 @@
 # React-QR
 This project is a simple QR Code Generator built using React. It allows users to input data and generate a QR code image based on the provided data and specified size. The generated QR code can also be downloaded as an image file.
 
+## Table of Contents
+- Features
+- Usage
+- Installation
+- Contributing
+
 ## Features
 
 - Generate a QR code from user input data
