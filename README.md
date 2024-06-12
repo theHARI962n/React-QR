@@ -16,10 +16,6 @@ This project is a simple QR Code Generator built using React. It allows users to
 - Once the QR code is generated, you can see it displayed on the page.
 - Click the "Download QR Code" button to download the generated QR code as a PNG image.
 
-## Contributing
-
-- If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
-
 ## Installation
 
 - To run this project locally, follow these steps:
@@ -38,4 +34,6 @@ This project is a simple QR Code Generator built using React. It allows users to
 
 The application should now be running on http://localhost:3000.
 
+## Contributing
 
+- If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
