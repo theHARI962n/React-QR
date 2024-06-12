@@ -19,3 +19,23 @@ This project is a simple QR Code Generator built using React. It allows users to
 ## Contributing
 
 - If you'd like to contribute to this project, please fork the repository and use a feature branch. Pull requests are warmly welcome.
+
+## Installation
+
+To run this project locally, follow these steps:
+
+Clone the repository:
+
+git clone https://github.com/your-username/qrcode-generator.git
+Navigate to the project directory:
+
+cd qrcode-generator
+Install the dependencies:
+
+npm install
+Start the development server:
+
+npm start
+The application should now be running on http://localhost:3000.
+
+
